@@ -1,1 +1,3 @@
-# python_exercise_files
+# Python Exercise Files
+
+This Repo holds demo files for learning Python
